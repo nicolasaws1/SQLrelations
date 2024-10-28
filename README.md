@@ -45,3 +45,6 @@ Após a criação das tabelas, os relacionamentos automáticos foram desativados
 Este modelo facilita a visualização e a análise de dados de e-commerce, possibilitando a criação de relatórios dinâmicos e analíticos no Power BI, com um layout consistente para a exploração de métricas significativas.
 
 ---
+![Relação do Esquema Estrela](starschemarelation.jpg)
+![Relação do Esquema Estrela](Starschema1.jpg)
+
